@@ -1,0 +1,23 @@
+{
+  "name": "quete04",
+  "version": "1.0.0",
+  "description": "",
+  "main": "testdotenv.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnGaro/test_dotenv.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohnGaro/test_dotenv/issues"
+  },
+  "homepage": "https://github.com/JohnGaro/test_dotenv#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
